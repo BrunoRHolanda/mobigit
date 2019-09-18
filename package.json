@@ -1,0 +1,28 @@
+{
+  "name": "mobigit",
+  "version": "0.1.0",
+  "description": "Uma Git UI para auxiliar no versionamento de projetos. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sr-holanda/mobigit.git"
+  },
+  "keywords": [
+    "GIT",
+    "UI",
+    "GIT FLOW UI"
+  ],
+  "author": "Bruno R. Holanda",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sr-holanda/mobigit/issues"
+  },
+  "homepage": "https://github.com/sr-holanda/mobigit#readme",
+  "devDependencies": {
+    "electron": "^6.0.9"
+  }
+}
